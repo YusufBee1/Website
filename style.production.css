@@ -167,15 +167,9 @@ body {
     }
   }
   button,
-  .button {
+  .button 
   /* your styling goes here */  
-  }
-  button:hover,
-  button:focus,
-  .button:hover,
-  .button:focus {
-  /* your styling goes here */  
-  }
+
   .button, button {
     /* overwrites browser defaults and resets the border */
     border: none;
@@ -326,7 +320,7 @@ body {
   }
   table {
     border-collapse: collapse;
-    width: 60%;   // specify a width less than 100%
+    width: 60%;  
     margin-left: auto;
     margin-right: auto;
   }
@@ -348,4 +342,3 @@ td {
     text-align: center;
 }
 
-</style>
