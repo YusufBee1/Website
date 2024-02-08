@@ -325,7 +325,7 @@ body {
   }
   table {
     border-collapse: collapse;
-    width: 60%;   // specify a width less than 100%
+    width: 60%;   /* specify a width less than 100%*/
     margin-left: auto;
     margin-right: auto;
   }
@@ -346,10 +346,6 @@ th {
 td {
     text-align: center;
 }
-
-<<<<<<< Updated upstream
-</style>
-=======
 
 .grid-container {
   display: grid;
@@ -386,4 +382,3 @@ td {
     font-size: 22px;
   }
 }
->>>>>>> Stashed changes
